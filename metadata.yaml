@@ -1,5 +1,8 @@
 _repo: Cosas-de-Espana-tomo-1-El-pais-de-lo-imprevisto_57828
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57828-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Mesa, Enrique de
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41260
     wikipedia: http://en.wikipedia.org/wiki/Richard_Ford_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57828#Cosas-de-Espana-tomo-1-El-pais-de-lo-imprevisto
 gutenberg_issued: '2018-09-01'
 gutenberg_type: Text
 identifiers:
