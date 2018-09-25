@@ -1,0 +1,29 @@
+_repo: Cosas-de-Espana-tomo-1-El-pais-de-lo-imprevisto_57828
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Mesa, Enrique de
+    gutenberg_agent_id: '49627'
+    url: http://www.gutenberg.org/2009/agents/49627
+  - agent_name: Ford, Richard
+    alias: Ford, Ricardo
+    birthdate: 1796
+    deathdate: 1858
+    gutenberg_agent_id: '41260'
+    url: http://www.gutenberg.org/2009/agents/41260
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Ford_%28writer%29
+description: ''
+gutenberg_issued: '2018-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57828'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Cosas de España; tomo 1
+
+  (El país de lo imprevisto)'
+url: http://www.gutenberg.org/ebooks/57828
